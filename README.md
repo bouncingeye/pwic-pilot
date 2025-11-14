@@ -1,76 +1,39 @@
-Public Web Index Cooperative (PWIC) - The Resilience Index
+PWIC: Permanent Web Index Coalition
 
-"If the lights go out, we have batteries. If the index goes out, we have nothing."
-— Shannon Jefferson, PWIC Founder
+🌍 Global Index Integrity: Securing the Digital Record
 
-The Public Web Index Cooperative (PWIC) is a neutral, non-commercial, and fully redundant digital public safety infrastructure designed to ensure continuous discoverability of critical public, academic, and scientific data, regardless of commercial index failures.
+The Permanent Web Index Coalition (PWIC) is an urgent, multi-national initiative dedicated to ensuring the resilience and long-term integrity of the world's core knowledge index. This project is framed not as a competitive search solution, but as an essential Critical Infrastructure Doctrine designed to mitigate systemic risks associated with single-point-of-failure indexing systems.
 
-The PWIC is led by Shannon Jefferson, Executive Director (Volunteer).
+Recent failures highlight the vulnerability of the global digital record, where crucial data can become inaccessible overnight, risking multi-billion dollar economic impacts and compromising institutional memory.
 
-1. The Critical Problem: Systemic Risk
+The PWIC provides a decentralized, auditable, and academically grounded solution to this instability.
 
-The stability of global commerce, research, and governance is dependent on a single, private, proprietary search index. This represents a single point of failure that is both a geopolitical and economic disaster waiting to happen.
+🎯 Mission
 
-Economic Exposure: A 72-hour search index blackout is estimated to cost the US GDP $43 billion.
+To pioneer an open-source, non-competitive, and distributed Permanent Web Index using advanced decentralized storage and Knowledge Graph technologies (Triple Store architecture). This index serves as a global, non-commercial lifeboat for information—a last resort that guarantees access to essential data, regardless of the operational status of commercial search providers.
 
-Data Fragility: Critical public data (scientific papers, .gov records, .edu research) is difficult to audit, verify, and track outside of major search engines.
+🔑 Key Principles
 
-Governance Failure: There is currently ZERO redundancy for essential public digital infrastructure.
+Principle
 
-2. The $0 Solution: PWIC Pilot
+Description
 
-The initial six-month pilot phase is designed to prove the core concept of a transparent, redundant index using only existing datasets and in-kind (free) contributions from the open-source community and partner organizations.
+Resilience First
 
-Goal: Publish a machine-readable, triple-store index of 1 million highly-reliable .gov and .edu URLs for public adoption.
+The primary goal is redundancy and fault tolerance against major infrastructure failures.
 
-Key Milestones (See PILOT_PLAN.md for details)
+Non-Competitive
 
-Phase
+PWIC data is not optimized for consumer search relevance; it is optimized for preservation and fact retrieval (the "ground truth").
 
-Core Action
+Academic & Institutional
 
-Required Partnership
+Governance, maintenance, and query access are restricted to qualified academic, governmental, and non-profit institutions.
 
-Month 1
+Auditability
 
-Data Ingest
+Every index entry is cryptographically linked to its origin and modification history.
 
-Common Crawl / Internet Archive
+Status: Pilot Readiness
 
-Month 3
-
-Storage & Resilience
-
-Protocol Labs / Filecoin
-
-Month 4
-
-API Release
-
-Open Source Community / Volunteer Search
-
-Month 6
-
-Governance Hand-off
-
-Founding Council (NSF, LoC, EU, Public)
-
-3. Governance and Neutrality
-
-The PWIC is built on a non-competitive, decentralized governance structure to prevent commercial capture and ensure long-term public service.
-
-Founding Council Seats:
-
-Public Representative: (Shannon Jefferson, Volunteer ED)
-
-Decentralized Storage: (Protocol Labs / Filecoin)
-
-Archival Data: (Internet Archive)
-
-National Library: (Library of Congress)
-
-International Resilience: (EU Digital Connect / Gaia-X)
-
-Independent Search Engine: (Rotating Seat)
-
-We are requesting partnership, not funding, to launch Phase I.
+The PWIC has successfully defined its full architecture and is ready to enter the Pilot Deployment Phase in collaboration with initial partners.
